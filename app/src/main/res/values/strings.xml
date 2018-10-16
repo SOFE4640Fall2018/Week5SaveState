@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Save State</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="hint_employee_firstname">First Name</string>
+    <string name="hint_employee_lastname">Last Name</string>
+    <string name="category_title">Employee Title</string>
+    <string name="hint_employee_title">Title</string>
+</resources>
